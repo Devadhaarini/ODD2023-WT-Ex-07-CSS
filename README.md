@@ -1,4 +1,6 @@
 # Ex-07(i)-CSS
+# Developed by: Devadhaarini.D
+# Register no.: 212223230040
 # AIM 
 Using CSS media queries, modify the webpage's color scheme with the following requirements:
 
